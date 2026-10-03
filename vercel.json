@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/document-converter-website.html" }]
+}
